@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for WeChat Pay in Shenzhen
+- 🔭 I’m currently working in Shenzhen
 - 🌱 I’m currently learning TypeScript，React，php
 - 👯 I’m looking to collaborate on wxapp. For example, [navbar for wxapp](https://github.com/mtonhuang/navbar-for-wxapp)
 - 📫 How to reach me: huangmiantong@126.com
